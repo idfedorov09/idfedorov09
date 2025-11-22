@@ -8,8 +8,8 @@
 
 ###
 
-<p align="left">I'm Ivan — a backend/AI engineer who puts large language models into real products instead of slide decks.<br>Since early 2024 I've been working at Doczilla, building infrastructure and backend around LLMs: integrations with external providers, APIs for AI features, document anonymization, and a contract-review agent that helps lawyers work faster. Before that I interned at Yandex Market on the checkout/cart backend.<br>Right now I'm studying Artificial Intelligence at AITH ITMO (Saint Petersburg).<br>I enjoy designing systems end-to-end and making them reliable in production. From the public things: my team took 4th place at the LCT 2024 hackathon in the `text search over media content` track for Yappy, where I was responsible for the backend and system design.
-<br>
+I'm Ivan, a backend/AI engineer who ships real LLM-powered products. Since early 2024 I've been building LLM infrastructure at Doczilla (provider integrations, AI APIs, anonymization, contract-review agent), after an internship on the checkout backend at Yandex Market. I study AI at AITH ITMO and enjoy end-to-end systems; my team took 4th at the [LCT 2024](https://i.moscow/lct/en) hackathon (Yappy, text search over short videos), where I led backend and system design.
+
 
 <b>Main stack</b>:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" style="margin-bottom: -4px;" alt="Python logo" />
@@ -23,50 +23,16 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<div align="center">
 
-###
+<a href="https://github.com/idfedorov09/github-stats#gh-dark-mode-only">
+  <img src="https://github.com/idfedorov09/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/idfedorov09/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+<a href="https://github.com/idfedorov09/github-stats#gh-light-mode-only">
+  <img src="https://github.com/idfedorov09/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/idfedorov09/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
 </div>
-
-###
-
-<p align="center">
-  <img src="/github-metrics.svg" alt="GitHub metrics" width="100%">
-</p>
